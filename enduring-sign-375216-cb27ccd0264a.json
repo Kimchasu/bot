@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enduring-sign-375216",
+  "private_key_id": "cb27ccd0264aab63d8955ebc2db10845e870fa26",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRiKP80ILXVwG4\n1cANOTFYjb/7n4T9JiUFd9JIMbA8hpkOXEbl8g97hyVXSTqlmxtiHijVEGqJzTru\nmHkueDm7XLzntD9EZG3P8gzYTLjNfIq7yKH9NO+MGeHwNaH3wGPFr9Us1qpW9kKq\nlRxwVOkef0Y/OeOrZzc8T0SGUJQ3nrSXZwMFqA9A+P2AtsmiXtL7YRS2sZC9+Jth\nEwhdu236MIZ2bhNlP47htlH9BQFaydvHfAo6q+ZHusX/IM2EF4B1tLw/S6/XAiWX\nD76qfJDzJOogITxpWK3Z2ZnfwnK1Ysu+QJUGmUae6umePK5xqE6ti1AaUGxdk9H1\nwGc0t1nbAgMBAAECggEAHUPx75Ip7Cy9U1UbfV1THJSzz0+w8fCddB2Ps8Co5lNA\nVmaiCmTcL7spBn92XwICeZpPxq6Dytps1D1ck5Z8LcSep9gfjAxg4A3lKGLS3vR5\npg+4PFbj7FQDIBtFk4Z+CPLtmdUjtoCvwAaSkcfyRW2uYI9T0rFYYCaMIhxoDzpt\nNv2leWqYKJL3V6M7nNi1A+GeqpmQQecpI9W4yW98IL8Uvdv/7Zyi+wZCzMV2+4Fb\nBtze+b+j10aP6WrKvYcevJgCGJuQP5lCPW4tHIZgvg7ax3FVySAxy//tpR2aSJnN\nfwviGCItHGtlDIfUdacK3fT0yp9fCOwNaXG3KbPJOQKBgQDria0TpVUHvu5IIspu\nIsQ3jdC/hh9S0diHKM4jKuB4AhlUVDQDd4KEdIP8/fc0iTTe5B6inMJAKcqSip25\nFTS4pjy3l9+BHtDdRO9VMjxmiRaBXH/LJc0krGBYRVNfQh0X/dz+5HkUVJT40e5Y\nIXfPt7WmA4RXAZvf+Yg4LRhnIwKBgQDjvKN6aicpCUZhHK/mFsJPkFZpLijdUuFG\n4gkOOPVm+qTPL8GcxQQaebD5OGE4SM/Nb22+BNf4kTyd5lkKU/UFmTgX4Nz+Quks\nRzUppHQX/+ALNGuOiGpayccEBIkTFL1qAW5Aidl1vsOWfke8s9nzPCZUXduhAajC\nlJxKSU3J6QKBgQCHXePDs7RvtDK78IrIy2Bb0TxUpl+gOIwp+bCnE4BYWFR4W8Bc\n8bVoLJKits75OZXSN+bHbDJTr/EFUXceJOrc6GVi2n0Qd0ZwtKqcGzgNceImTKQB\ne+MvnYXtlUI6MAQKgtMdBu/zWD0Z14UUz39NOPbDx6eqXXlZOs8oAfrRYwKBgD1u\n8q6gGiZAwUKLKYwpEYvDBPxknlNt+yVS7lxu0wxPisv1NwZiQ0QdFbd1FQzI332s\nlG8RAW2lSDPUIqrdkRhMh8wxNYxFYn82SkoMeeDLfpWnM2iEtiP9kHkt/AgwrRP+\nhM5WIVpY9owPTqzB24Z48GIL26ZoOy0aR7rmYVyZAoGAUfP24Gef7r0H4iLwyFe9\nYazRES5bJw9R8ph+NIjEXnkG1pm1oe/d6irYZqKb4OxpV+kbJfoTMeDOhjtikBST\ncOVMupry/pyg2u06hC8fLmCGAKiAOPb4UaGucVLySsgYthzwdnMgpKa3IjONfu+p\nh+cxEP9LGrT4CAVpByzSwyc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chasu-karma@enduring-sign-375216.iam.gserviceaccount.com",
+  "client_id": "109706003043168534658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chasu-karma%40enduring-sign-375216.iam.gserviceaccount.com"
+}
